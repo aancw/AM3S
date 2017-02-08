@@ -1,0 +1,7 @@
+*.pyc
+lib/*.pyc
+plugins/*.pyc
+logs/*
+.directory
+lib/.directory
+plugins/.directory
